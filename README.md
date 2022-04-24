@@ -1,1 +1,6 @@
 - 👋 Hi, I’m @mr-tag2
+- my full name is mohammadTaji
+- im frontEnd developer
+- And loves to learn
+- And experimenting in my programming 
+- Day by day progressing...
