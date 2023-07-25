@@ -3,9 +3,9 @@
 - im JS developer
 - And loves to learn
 - You can contact me on Telegram and Instagram with the ID @mr_tag2
-- my some Projcts:
-  - Rich Table : https://mr-tag2-table.netlify.app
-  - Audio Palyer : https://xsimple-audio-player.netlify.app
-  - Easy Todo : https://easy-todo-mr-tag2.netlify.app
-  - Authentication Pages : https://simple-authentication-pages-mr-tag2.netlify.app
-  - First Home Pages Nextjs :https://basic-home-aboutus-nextjs.netlify.app
+- my some simple Projcts:
+  - Easy Todo (ReactJs) : https://easy-todo-mr-tag2.netlify.app
+  - Authentication Pages (ReactJs) : https://simple-authentication-pages-mr-tag2.netlify.app
+  - First Home Pages (NextJs) : https://basic-home-aboutus-nextjs.netlify.app
+  - Rich Table (ReactJs) : https://mr-tag2-table.netlify.app
+  - Audio Palyer (Jquery) : https://xsimple-audio-player.netlify.app
