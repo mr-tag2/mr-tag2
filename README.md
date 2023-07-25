@@ -8,3 +8,4 @@
   - Audio Palyer : https://xsimple-audio-player.netlify.app
   - Easy Todo : https://easy-todo-mr-tag2.netlify.app
   - Authentication Pages : https://simple-authentication-pages-mr-tag2.netlify.app
+  - First Home Pages Nextjs :https://basic-home-aboutus-nextjs.netlify.app
