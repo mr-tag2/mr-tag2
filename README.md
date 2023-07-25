@@ -4,5 +4,6 @@
 - And loves to learn
 - You can contact me on Telegram and Instagram with the ID @mr_tag2
 - my some Projcts:
-  - Rich Table : https://mr-tag2-table.netlify.app/
-  - Audio Palyer : https://xsimple-audio-player.netlify.app/
+  - Rich Table : https://mr-tag2-table.netlify.app
+  - Audio Palyer : https://xsimple-audio-player.netlify.app
+  - Easy Todo : https://easy-todo-mr-tag2.netlify.app
