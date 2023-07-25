@@ -7,3 +7,4 @@
   - Rich Table : https://mr-tag2-table.netlify.app
   - Audio Palyer : https://xsimple-audio-player.netlify.app
   - Easy Todo : https://easy-todo-mr-tag2.netlify.app
+  - Authentication Pages : https://simple-authentication-pages-mr-tag2.netlify.app
