@@ -9,3 +9,4 @@
   - First Home Pages (NextJs) : https://basic-home-aboutus-nextjs.netlify.app
   - Rich Table (ReactJs) : https://mr-tag2-table.netlify.app
   - Audio Palyer (Jquery) : https://xsimple-audio-player.netlify.app
+  - Technology Blog (Reactjs - Nodejs) : https://technology-blog-mr-tag2.netlify.app/
