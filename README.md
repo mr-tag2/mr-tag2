@@ -7,6 +7,8 @@
   - Easy Todo (ReactJs) : https://easy-todo-mr-tag2.netlify.app
   - Authentication Pages (ReactJs) : https://simple-authentication-pages-mr-tag2.netlify.app
   - First Home Pages (NextJs) : https://basic-home-aboutus-nextjs.netlify.app
-  - Rich Table (ReactJs) : https://mr-tag2-table.netlify.app
   - Audio Palyer (Jquery) : https://xsimple-audio-player.netlify.app
-  - Technology Blog (Reactjs - Nodejs) : https://technology-blog-mr-tag2.netlify.app/
+  - Musume (Reactjs - Nodejs) : https://museum-mr-tag2.netlify.app
+  - Rich Table (ReactJs) : https://mr-tag2-table.netlify.app
+  - Technology Blog (Reactjs - Nodejs) : https://technology-blog-mr-tag2.netlify.app
+
