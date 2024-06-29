@@ -1,15 +1,17 @@
 - 👋 Hi, I’m mr-tag2
-- my full name is mohammadTaji
-- im JS developer
+- My full name is Mohammad Taji
+- Im JS developer
 - And loves to learn
-- You can contact me on Telegram and Instagram with the ID @mr_tag2
-- my some simple Projcts:
-  - Easy Todo (ReactJs) : https://easy-todo-mr-tag2.netlify.app
-  - Authentication Pages (ReactJs) : https://simple-authentication-pages-mr-tag2.netlify.app
-  - First Home Pages (NextJs) : https://basic-home-aboutus-nextjs.netlify.app
-  - Audio Palyer (Jquery) : https://xsimple-audio-player.netlify.app
-  - Musume (Reactjs - Nodejs) : https://museum-mr-tag2.netlify.app
-  - Rich Table (ReactJs) : https://mr-tag2-table.netlify.app
-  - Technology Blog (Reactjs - Nodejs) : https://technology-blog-mr-tag2.netlify.app
+- You Can Send Me Message on [LinkedIn](https://www.linkedin.com/in/mr-tag2/)
 
-[My Resume](resume.pdf)
+  # 👉 [ My Resume](resume.pdf) 👈
+
+- # My Some Simple Projcts:
+
+  - [ Easy Todo (ReactJs) ](https://easy-todo-mr-tag2.netlify.app)
+  - [ Authentication Pages (ReactJs) ](https://simple-authentication-pages-mr-tag2.netlify.app)
+  - [ First Home Pages (NextJs) ](https://basic-home-aboutus-nextjs.netlify.app)
+  - [ Audio Palyer (Jquery) ](https://xsimple-audio-player.netlify.app)
+  - [ Musume (Reactjs - Nodejs) ](https://museum-mr-tag2.netlify.app)
+  - [ Rich Table (ReactJs) ](https://mr-tag2-table.netlify.app)
+  - [ Technology Blog (Reactjs - Nodejs) ](https://technology-blog-mr-tag2.netlify.app)
