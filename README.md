@@ -12,3 +12,4 @@
   - Rich Table (ReactJs) : https://mr-tag2-table.netlify.app
   - Technology Blog (Reactjs - Nodejs) : https://technology-blog-mr-tag2.netlify.app
 
+[My Resume](resume.pdf)
