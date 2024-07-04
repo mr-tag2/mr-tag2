@@ -2,7 +2,7 @@
 - My full name is Mohammad Taji
 - Im JS developer
 - And loves to learn
-- You Can Send Me Message on [LinkedIn](https://www.linkedin.com/in/mr-tag2/)
+- You Can Send Me Message on [LinkedIn](https://www.linkedin.com/in/mr-tag2/) or [Telegram](https://t.me/Mr_Tag2_dev)
 
   # 👉 [ My Resume](resume.pdf) 👈
 
