@@ -1,7 +1,5 @@
-- 👋 Hi, I’m mr-tag2
-- My full name is Mohammad Taji
+- 👋 Hi, I’m mr-tag2 (Mohammad Taji)
 - Im JS developer
-- And loves to learn
 - You Can Send Me Message on [LinkedIn](https://www.linkedin.com/in/mr-tag2/) or [Telegram](https://t.me/Mr_Tag2_dev)
 
   # 👉 [ My Resume](resume.pdf) 👈
