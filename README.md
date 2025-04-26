@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mr-tag2 (Mohammad Taji)
 - Im JS developer
-- You Can Send Me Message on [LinkedIn](https://www.linkedin.com/in/mr-tag2/) or [Telegram](https://t.me/Mr_Tag2_dev)
+- You Can Send Me Message on [LinkedIn](https://www.linkedin.com/in/mr-tag2/) or [Telegram](https://t.me/Mr_Tag2)
 
   # 👉 [ My Resume](resume.pdf) 👈
 
